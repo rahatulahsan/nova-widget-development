@@ -1,0 +1,38 @@
+.sidebar-item ul {
+    list-style: none;
+    padding-left: 0;
+}
+.sidebar-item ul li a {
+    color: #000;
+    line-height: 30px;
+}
+
+.post-item.blog.mt-3 {
+    display: flex;
+    box-shadow: 0px 0 15px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+}
+.post-item.blog.mt-3 h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
+.post-item.blog.mt-3 div {
+    margin-left: 10px;
+}
+.post-item.blog.mt-3 a {
+    color: #000;
+}
+
+ul.mt-3.tags li {
+    display: inline-block;
+}
+ul.mt-3.tags li a {
+    color: #38618e;
+    font-size: 14px;
+    padding: 6px 14px;
+    margin: 0 6px 8px 0;
+    border: 1px solid rgba(27, 47, 69, 0.15);
+    display: inline-block;
+    border-radius: 50px;
+    transition: 0.3s;
+}

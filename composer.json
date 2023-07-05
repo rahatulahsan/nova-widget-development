@@ -1,0 +1,16 @@
+{
+  "name": "rahatulahsan/nova-widgets",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/rahatulahsan/nova-widgets",
+  "authors": [
+    {
+      "name": "Rahatul Ahsan",
+      "homepage": "https://rahatulahsan.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
